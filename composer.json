@@ -31,12 +31,6 @@
       "Funkymed\\TenantAwareBundle\\Tests\\": "tests/"
     }
   },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/Auburnite/tenant-aware-bundle"
-    }
-  ],
   "extra": {
     "branch-alias": {
       "dev-master": "0.2.x-dev"

@@ -49,8 +49,8 @@ class TenantConfigurationPass implements CompilerPassInterface
 
     private function debug($container, $hostname)
     {
-        dump($container->get('doctrine.orm.entity_manager')->getConnection()->getParams());
-        dump($hostname);
+//        dump($container->get('doctrine.orm.entity_manager')->getConnection()->getParams());
+//        dump($hostname);
     }
 
 }
